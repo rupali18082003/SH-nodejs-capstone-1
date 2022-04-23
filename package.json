@@ -1,0 +1,16 @@
+{
+  "name": "capstone-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js",
+    "startwatch": "nodemon server.js"
+  },
+  "author": "rupali",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}

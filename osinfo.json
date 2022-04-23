@@ -1,0 +1,51 @@
+{
+    "hostname": "welcome-PC",
+    "platform": "win32",
+    "architecture": "x64",
+    "numberOfCPUS": [
+        {
+            "model": "AMD A4-3330MX APU with Radeon(tm) HD Graphics",
+            "speed": 2196,
+            "times": {
+                "user": 161242,
+                "nice": 0,
+                "sys": 107671,
+                "idle": 2619350,
+                "irq": 982
+            }
+        },
+        {
+            "model": "AMD A4-3330MX APU with Radeon(tm) HD Graphics",
+            "speed": 2196,
+            "times": {
+                "user": 201194,
+                "nice": 0,
+                "sys": 128170,
+                "idle": 2557854,
+                "irq": 14320
+            }
+        }
+    ],
+    "networkInterfaces": {
+        "Loopback Pseudo-Interface 1": [
+            {
+                "address": "::1",
+                "netmask": "ffff:ffff:ffff:ffff:ffff:ffff:ffff:ffff",
+                "family": "IPv6",
+                "mac": "00:00:00:00:00:00",
+                "internal": true,
+                "cidr": "::1/128",
+                "scopeid": 0
+            },
+            {
+                "address": "127.0.0.1",
+                "netmask": "255.0.0.0",
+                "family": "IPv4",
+                "mac": "00:00:00:00:00:00",
+                "internal": true,
+                "cidr": "127.0.0.1/8"
+            }
+        ]
+    },
+    "uptime": 2887
+}
